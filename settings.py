@@ -10,5 +10,5 @@ SCREEN_TITLE = "Pixel Bird Test"
 " Asset Paths"
 "====================================================================================================="
 
-BACKGROUND_PATH = "assets/backgrounds/"
-BIRD_PATH = "assets/birds/"
+BACKGROUND_PATH = "assets/backgrounds/mountain.png"
+BIRD_PATH = "assets/birds/blue_bird.png"
